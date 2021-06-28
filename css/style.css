@@ -47,6 +47,7 @@ footer h3{
 .foto1, .foto2{
     color: white;
     font-size: 20px;
+    text-align: center;
 }
 .foto1{
     height: 250px;
